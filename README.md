@@ -1,4 +1,4 @@
-# Rock
+# Rock Paper seasor
 
 ## Hactoberfest 2022
 
