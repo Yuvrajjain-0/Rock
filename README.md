@@ -28,9 +28,9 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
     ```
     Create a branch for the task1
     ```bash
-        git branch -M task1
+        git branch -M task2
 
-        git checkout task1
+        git checkout task2
     ```
 
 - [**Task 1 (Introduction)**](./Task1/README.md)
@@ -41,7 +41,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
         ```json
         [
             {
-                "name": "Steve Yonkeu",
+                "name": "Steve Yuvraj",
                 "github_handle": "yokwejuste",
                 "hacktoberfest_round": "third",
                 "role": [
