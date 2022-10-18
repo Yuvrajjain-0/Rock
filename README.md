@@ -50,9 +50,9 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
                 ]
             },
             {
-                "name": "Fisher Monk",
+                "name": "Fisher Jain",
                 "github_handle": "fisherman20183698",
-                "hacktoberfest_round": "first",
+                "hacktoberfest_round": "second",
                 "role": [
                     "contributor"
                 ]
